@@ -1,0 +1,28 @@
+- Crime Rate vs Population in Dallas County
+
+- Team Members
+	- Ashley Armijo
+	- Trey Bailey
+	- Jake Cook
+	- Darrian Bethea
+	- Kyle Niederkorn
+	- Stephen Min
+
+- Project Descripton/Outline
+	- We would like to find out if the crime rate would have an effect on the population of Dallas County
+
+- Research Questions to Answer
+	- Does crime rate impact the density of a population in Dallas County?
+	- Does the severity of the crime relate to the population?
+	- Does the population have any correlation with crime rates?
+	- Does the area in Dallas County have any effect on crime rates?
+
+- Datasets to be Used
+	- Dallas Open Data
+
+- Rough Breakdown of Tasks
+	- Finding the population of the cities
+	- Finding the data of the crime rates/severity of the crime
+	- Merging the data
+	- Finding to see if there is a correlation
+	- Completing the graphs
