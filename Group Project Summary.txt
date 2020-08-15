@@ -1,4 +1,4 @@
-- Crime Rate vs Population in Dallas County
+- Weather vs Population of the top 100 cities in the US
 
 - Team Members
 	- Ashley Armijo
@@ -9,20 +9,19 @@
 	- Stephen Min
 
 - Project Descripton/Outline
-	- We would like to find out if the crime rate would have an effect on the population of Dallas County
+	- We would like to find out if weather would have an effect on the population of a city
 
 - Research Questions to Answer
-	- Does crime rate impact the density of a population in Dallas County?
-	- Does the severity of the crime relate to the population?
-	- Does the population have any correlation with crime rates?
-	- Does the area in Dallas County have any effect on crime rates?
+	- Does weather impact the density of a population in the US?
+	- Does the temprature, humidity, or chance of rain of a city have any effect on the population of a city?
 
 - Datasets to be Used
-	- Dallas Open Data
+	- Open Weather API
+	- Census
 
 - Rough Breakdown of Tasks
 	- Finding the population of the cities
-	- Finding the data of the crime rates/severity of the crime
+	- Finding the data of the weather in those cities
 	- Merging the data
 	- Finding to see if there is a correlation
 	- Completing the graphs
