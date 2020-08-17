@@ -1,4 +1,4 @@
-- Weather vs Population of the top 100 cities in the US
+- Weather vs Gas Prices
 
 - Team Members
 	- Ashley Armijo
@@ -9,15 +9,17 @@
 	- Stephen Min
 
 - Project Descripton/Outline
-	- We would like to find out if weather would have an effect on the population of a city
+	- We would like to find out if weather would have an effect on gas prices
 
 - Research Questions to Answer
-	- Does weather impact the density of a population in the US?
-	- Does the temprature, humidity, or chance of rain of a city have any effect on the population of a city?
+	- What month of 2019 was the hottest?
+	- What month of 2019 had the highest gas price?
+	- Is there a correlation between weather and gas price?
+	- What city had the highest average gas price for 2019?
+	- What city had the highest average temp?
 
 - Datasets to be Used
 	- Open Weather API
-	- Census
 
 - Rough Breakdown of Tasks
 	- Finding the population of the cities
