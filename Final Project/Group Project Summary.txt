@@ -1,0 +1,29 @@
+- Weather vs Gas Prices
+
+- Team Members
+	- Ashley Armijo
+	- Trey Bailey
+	- Jake Cook
+	- Darrian Bethea
+	- Kyle Niederkorn
+	- Stephen Min
+
+- Project Descripton/Outline
+	- We would like to find out if weather would have an effect on gas prices
+
+- Research Questions to Answer
+	- What month of 2019 was the hottest?
+	- What month of 2019 had the highest gas price?
+	- Is there a correlation between weather and gas price?
+	- What city had the highest average gas price for 2019?
+	- What city had the highest average temp?
+
+- Datasets to be Used
+	- Open Weather API
+
+- Rough Breakdown of Tasks
+	- Finding the population of the cities
+	- Finding the data of the weather in those cities
+	- Merging the data
+	- Finding to see if there is a correlation
+	- Completing the graphs
